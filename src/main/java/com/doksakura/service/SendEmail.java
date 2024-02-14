@@ -14,8 +14,6 @@ public class SendEmail {
         final String user = "*";
         final String password = "*";
 
-        String to = "kittikan.ma@ku.th";
-
         Properties props = new Properties();
         props.put("mail.smtp.host", host);
         props.put("mail.smtp.auth", "true");
