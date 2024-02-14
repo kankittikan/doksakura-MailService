@@ -1,7 +1,6 @@
 package com.doksakura;
 
 import com.doksakura.model.SocketThread;
-import com.doksakura.service.Parser;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 import java.io.IOException;

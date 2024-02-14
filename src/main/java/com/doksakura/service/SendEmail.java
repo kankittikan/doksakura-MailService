@@ -10,9 +10,9 @@ import javax.mail.internet.*;
 public class SendEmail {
     public static void send(EmailMessage emailMessage) throws UnsupportedEncodingException, MessagingException {
 
-        String host = "smtp-relay.brevo.com";
-        final String user = "kittikan06122545@icloud.com";
-        final String password = "xsmtpsib-dc81702369c23acbc16b1c26a49370d2a537d0b1882437c81ca9c530079a5664-aEIpy69mPHXrhvn3";
+        String host = "*";
+        final String user = "*";
+        final String password = "*";
 
         String to = "kittikan.ma@ku.th";
 
